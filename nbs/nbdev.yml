@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "delay_prediction"
+  site-url: "https://fghavamian.github.io/delay_prediction"
+  description: "Predict delay in Ecommerce fullfilment"
+  repo-branch: master
+  repo-url: "https://github.com/fghavamian/delay_prediction"
