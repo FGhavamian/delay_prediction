@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "delay_prediction",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "delay_prediction",
+    "section": "Install",
+    "text": "Install\npip install delay_prediction"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "delay_prediction",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "model/data_generation.html",
+    "href": "model/data_generation.html",
+    "title": "data generation",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nfoo()\n\n'Hello world'\n\n\n\nfoo()\n\n'Hello world'"
+  }
+]
