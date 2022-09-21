@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://fghavamian.github.io',
                 'git_url': 'https://github.com/fghavamian/delay_prediction',
                 'lib_path': 'delay_prediction'},
-  'syms': {'delay_prediction.core': {'delay_prediction.core.foo': ('core.html#foo', 'delay_prediction/core.py')}}}
+  'syms': { 'delay_prediction.data_generation': { 'delay_prediction.data_generation.foo': ( 'model/data_generation.html#foo',
+                                                                                            'delay_prediction/data_generation.py')}}}
